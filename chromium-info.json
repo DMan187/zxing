@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2017-12-05T12:40:46Z",
+  "last_modified_by_me": "2017-12-05T12:40:46Z",
+  "content_last_modified": "2017-12-05T12:40:46Z",
+  "created": "2017-12-05T22:14:51.453Z",
+  "permissions": [
+    {
+      "id": "12679212234759514931",
+      "name": "Dustin Andrus",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocLABowKcHGWseSBq-YbAyI0eIdPKeq_qJjtIyn1OUXhhQ16Mg=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1fIEDNhkG_FMduFsPrEuKs4zdEOUGV4p5/permissions/12679212234759514931",
+      "email_address": "dustinandrus18@gmail.com",
+      "domain": "gmail.com",
+      "etag": "\"KygA_8Ziftb6KHfCu67Nb7dxwGI\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "chromium",
+  "drive_id": "1fIEDNhkG_FMduFsPrEuKs4zdEOUGV4p5",
+  "mime_type": "application/vnd.google-apps.folder"
+}
